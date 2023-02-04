@@ -17,6 +17,16 @@
 
 Для получения зачета, вам необходимо предоставить вывод команды terraform apply и страницы свойств созданной ВМ из личного кабинета YandexCloud.
 
+Apply complete! Resources: 3 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+external_ip_address_node01_yandex_cloud = "51.250.83.74"
+internal_ip_address_node01_yandex_cloud = "192.168.101.17"
+
+
+
+
 ![2](.jpg)
 
 
